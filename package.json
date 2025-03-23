@@ -1,0 +1,24 @@
+{
+  "name": "employee-api-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amansaraon/employee-api-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amansaraon/employee-api-docs/issues"
+  },
+  "homepage": "https://github.com/amansaraon/employee-api-docs#readme",
+  "dependencies": {
+    "swagger-ui-dist": "^5.20.1"
+  }
+}
